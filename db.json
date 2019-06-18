@@ -1,5 +1,5 @@
 {
-   "Accounts":["Name1", "Name2", "Name3"]
+   "Accounts":["Name1", "Name2", "Name3"],
    "AccountDetails":[
       {
          "DBUser":"dbo",
